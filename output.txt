@@ -1,0 +1,6 @@
+gdansk -> warszawa = 3 (gdansk -> bydgoszcz -> torun -> warszawa)
+bydgoszcz -> warszawa = 2 (bydgoszcz -> torun -> warszawa)
+new_york -> los_angeles = 5 (new_york -> chicago -> atlanta -> los_angeles)
+new_york -> atlanta = 3 (new_york -> chicago -> atlanta)
+boston -> chicago = 5 (boston -> atlanta -> chicago)
+detroit -> los_angeles = 4 (detroit -> chicago -> atlanta -> los_angeles)
